@@ -6,6 +6,7 @@
 
 ## 🪜 Step
 ### [Phase 1] - 🔗 [Learning Kotlin Basics](https://kotlinlang.org/docs/getting-started.html)
+<img src="assets/screenshots/kotlinStartPage.png">
 
 
 ## ⚖️ License
