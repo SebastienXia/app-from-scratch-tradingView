@@ -37,3 +37,9 @@ source : [Variables﻿](https://kotlinlang.org/docs/basic-syntax.html#variables)
 |-----|-----|-----|
 |Char|Only on character (Unicode), single `'`|`var charValue: Char = 'A'`|
 |String|indexed value, start at 0, double `"`|`var stringValue: String = "Hello"`|
+
+## Collections
+| Type | Information | Example |
+|-----|-----|-----|
+|Array<T>|An array is a data structure that holds a fixed number of values of the same type or its subtypes.|`val listeFruit: Array<Typr> = arrayOf(..someFruits..)`|
+|List<T>|
