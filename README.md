@@ -5,8 +5,13 @@
 ---
 
 ## 🪜 Step
-### [Phase 1] - 🔗 [Learning Kotlin Basics](https://kotlinlang.org/docs/getting-started.html)
+### [Phase 1] - 🔗 [Learning Kotlin Basics](https://kotlinlang.org/docs/getting-started.html) (kotlinkOfficalSite)
 <img src="assets/screenshots/kotlinStartPage.png">
+
+---
+
+### 🔗 - Kotlin MarkDown Note (add link to the KotlinMarkDown file) 
+<img src="assets/screenshots/kotlinMarkDownNote.png">
 
 
 ## ⚖️ License
